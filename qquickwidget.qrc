@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Switch_and_Button.qml</file>
+    </qresource>
+</RCC>
